@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**takada-san/takada-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧙 Still apprentice - from 0
+- 🌱 I’m currently learning Linux.
+- 👯 I’m looking to collaborate on DevOps projects.
+- 📫 How to reach me: ricardotakada_@hotmail.com
+- ⚡ Fun fact: 
+        I’m newborn’s dad;
+        Still a saller, working on a CR7 store;
+        Studying DevOps area everyday.
+        
+- 🏘️ Brazil - Portugal
